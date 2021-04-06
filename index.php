@@ -39,9 +39,3 @@
   <input type="submit" name="submit" value="submit">
 </form>
 
-<form action="index.php" method="POST">
-  <input type="text" name="first_name">
-  <input type="text" name="last_name">
-  <input type="date" name="date_of_birth">
-  <input type="submit" name="submit" value="submit">
-</form>
